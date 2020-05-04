@@ -1,0 +1,57 @@
+[ {
+  "buildOrder" : 12,
+  "reportUrl" : "http://localhost:8080/job/TestNG_Project_All_Reports/12/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 364
+  }
+}, {
+  "buildOrder" : 11,
+  "reportUrl" : "http://localhost:8080/job/TestNG_Project_All_Reports/11/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 254
+  }
+}, {
+  "buildOrder" : 10,
+  "reportUrl" : "http://localhost:8080/job/TestNG_Project_All_Reports/10/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 207
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "http://localhost:8080/job/TestNG_Project_All_Reports/9/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 205
+  }
+}, {
+  "buildOrder" : 8,
+  "reportUrl" : "http://localhost:8080/job/TestNG_Project_All_Reports/8/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 199
+  }
+}, {
+  "buildOrder" : 7,
+  "reportUrl" : "http://localhost:8080/job/TestNG_Project_All_Reports/7/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 208
+  }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "http://localhost:8080/job/TestNG_Project_All_Reports/6/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 320
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "http://localhost:8080/job/TestNG_Project_All_Reports/5/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 334
+  }
+} ]

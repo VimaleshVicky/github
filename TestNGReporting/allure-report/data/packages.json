@@ -1,0 +1,57 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "com.automation.TestNGReporting.TestCases",
+    "children" : [ {
+      "name" : "testCase1",
+      "uid" : "777302e5cc2d9548",
+      "parentUid" : "010fda27945445d91e0a28f4d27fb814",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586256896587,
+        "stop" : 1586256896607,
+        "duration" : 20
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testCase2",
+      "uid" : "894958cd45d85d60",
+      "parentUid" : "010fda27945445d91e0a28f4d27fb814",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586256896763,
+        "stop" : 1586256896764,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testCase3",
+      "uid" : "3948fde82caf7b",
+      "parentUid" : "010fda27945445d91e0a28f4d27fb814",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586256896770,
+        "stop" : 1586256896771,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testCase4",
+      "uid" : "81076b34d679c1ea",
+      "parentUid" : "010fda27945445d91e0a28f4d27fb814",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586256896776,
+        "stop" : 1586256896778,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "com.automation.TestNGReporting.TestCases"
+  } ]
+}

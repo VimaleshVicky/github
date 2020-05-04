@@ -1,0 +1,65 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Suite",
+    "children" : [ {
+      "name" : "Test",
+      "children" : [ {
+        "name" : "com.automation.TestNGReporting.TestCases",
+        "children" : [ {
+          "name" : "testCase1",
+          "uid" : "777302e5cc2d9548",
+          "parentUid" : "c85e359d2400daecb430686269d24261",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586256896587,
+            "stop" : 1586256896607,
+            "duration" : 20
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testCase2",
+          "uid" : "894958cd45d85d60",
+          "parentUid" : "c85e359d2400daecb430686269d24261",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586256896763,
+            "stop" : 1586256896764,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testCase3",
+          "uid" : "3948fde82caf7b",
+          "parentUid" : "c85e359d2400daecb430686269d24261",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586256896770,
+            "stop" : 1586256896771,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testCase4",
+          "uid" : "81076b34d679c1ea",
+          "parentUid" : "c85e359d2400daecb430686269d24261",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586256896776,
+            "stop" : 1586256896778,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c85e359d2400daecb430686269d24261"
+      } ],
+      "uid" : "7314231e84d67a341867b5c9d3f928d2"
+    } ],
+    "uid" : "29f4dcc45a0e26cd7c7462063cee854b"
+  } ]
+}

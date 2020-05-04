@@ -1,0 +1,61 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Vicky-PC",
+    "children" : [ {
+      "name" : "15012@Vicky-PC.main(1)",
+      "children" : [ {
+        "name" : "testCase3",
+        "uid" : "3948fde82caf7b",
+        "parentUid" : "a8b9864bd712ecd47f4b9fbf087a75a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586256896770,
+          "stop" : 1586256896771,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testCase4",
+        "uid" : "81076b34d679c1ea",
+        "parentUid" : "a8b9864bd712ecd47f4b9fbf087a75a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586256896776,
+          "stop" : 1586256896778,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testCase1",
+        "uid" : "777302e5cc2d9548",
+        "parentUid" : "a8b9864bd712ecd47f4b9fbf087a75a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586256896587,
+          "stop" : 1586256896607,
+          "duration" : 20
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testCase2",
+        "uid" : "894958cd45d85d60",
+        "parentUid" : "a8b9864bd712ecd47f4b9fbf087a75a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586256896763,
+          "stop" : 1586256896764,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a8b9864bd712ecd47f4b9fbf087a75a4"
+    } ],
+    "uid" : "05b847ba1f85463588174d036bcbb3cc"
+  } ]
+}

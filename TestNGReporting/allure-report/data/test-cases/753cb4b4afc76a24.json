@@ -1,0 +1,59 @@
+{
+  "uid" : "753cb4b4afc76a24",
+  "name" : "testCase3",
+  "fullName" : "com.automation.TestNGReporting.TestCases.testCase3",
+  "historyId" : "d4d2dc937e9c9134f1baf37e71c58272",
+  "time" : {
+    "start" : 1586241219248,
+    "stop" : 1586241219249,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.automation.TestNGReporting.TestCases"
+  }, {
+    "name" : "testClass",
+    "value" : "com.automation.TestNGReporting.TestCases"
+  }, {
+    "name" : "testMethod",
+    "value" : "testCase3"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.automation.TestNGReporting.TestCases"
+  }, {
+    "name" : "host",
+    "value" : "Vicky-PC"
+  }, {
+    "name" : "thread",
+    "value" : "14324@Vicky-PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "753cb4b4afc76a24.json",
+  "parameterValues" : [ ]
+}
